@@ -7,6 +7,6 @@ Check out our latest release notes **[here](https://skillable.com/release-notes/
 
 <!--
 
-<iframe src="https://skillable.com/release-notes/" style="width: 1200px; height: 1000px;" style="border: none;"></iframe>
+<iframe src="https://skillable.com/release-notes/" style="width: 1200px; height: 1000px;" style="border: none; cusor: pointer;"></iframe>
 
 -->
