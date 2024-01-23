@@ -20,7 +20,7 @@
   <div id="portalContainer" class="cardContainer" title="Customer Portal">
     <div id="portal" class="trueHome cardContent">
       <p>Customer Portal</p>
-      <p>Manage your organization - coming soon.</p>
+      <p>Manage your organization - <b>coming soon</b>.</p>
     </div>
   </div>
 </div>
